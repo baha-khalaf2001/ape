@@ -1,1 +1,1 @@
-Add TF GraphDef Docs Integrations Page (#9203)
+Improve Coral Edge TPU guide (#8160)
